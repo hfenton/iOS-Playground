@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         var guess = textboxGuess.text.toInt()
         var text = ""
         
-        if guess <= 5 {
+        if guess <= 5 && guess != nil{
             if guess == answer {
                 text = "Correct, I am holding \(answer) fingers!"
                 
