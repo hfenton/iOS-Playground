@@ -37,7 +37,7 @@
 		24F0DF381AED8DD800E8D166 /* Cat YearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		24F0DF3D1AED8DD800E8D166 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		24F0DF3E1AED8DD800E8D166 /* Cat_YearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsTests.swift; sourceTree = "<group>"; };
-		24F0DF4A1AED954E00E8D166 /* PICT0369.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PICT0369.JPG; path = ../../../../PICT0369.JPG; sourceTree = "<group>"; };
+		24F0DF4A1AED954E00E8D166 /* PICT0369.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PICT0369.JPG; path = "/Users/heatherfenton/Documents/UdemyCourse/iOS-Playground/Cat Years/Cat Years/PICT0369.JPG"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -413,6 +413,7 @@
 				24F0DF441AED8DD800E8D166 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		24F0DF451AED8DD800E8D166 /* Build configuration list for PBXNativeTarget "Cat YearsTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +422,7 @@
 				24F0DF471AED8DD800E8D166 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
