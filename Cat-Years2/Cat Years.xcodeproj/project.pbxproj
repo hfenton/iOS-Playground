@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A4014171AF94B7500763F14 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A4014161AF94B7500763F14 /* Default-568h@2x.png */; };
 		1A74A6481AE9576000BB032C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A74A6471AE9576000BB032C /* AppDelegate.swift */; };
 		1A74A64A1AE9576000BB032C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A74A6491AE9576000BB032C /* ViewController.swift */; };
 		1A74A64D1AE9576000BB032C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A74A64B1AE9576000BB032C /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A4014161AF94B7500763F14 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		1A74A6421AE9576000BB032C /* Cat Years.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cat Years.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A74A6461AE9576000BB032C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A74A6471AE9576000BB032C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 		1A74A6391AE9576000BB032C = {
 			isa = PBXGroup;
 			children = (
+				1A4014161AF94B7500763F14 /* Default-568h@2x.png */,
 				1A74A6441AE9576000BB032C /* Cat Years */,
 				1A74A65A1AE9576000BB032C /* Cat YearsTests */,
 				1A74A6431AE9576000BB032C /* Products */,
@@ -198,6 +201,7 @@
 				1A74A64D1AE9576000BB032C /* Main.storyboard in Resources */,
 				1A74A6521AE9576000BB032C /* LaunchScreen.xib in Resources */,
 				1A74A6681AE95AA400BB032C /* sid_outside.jpg in Resources */,
+				1A4014171AF94B7500763F14 /* Default-568h@2x.png in Resources */,
 				1A74A64F1AE9576000BB032C /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -413,6 +417,7 @@
 				1A74A6631AE9576000BB032C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A74A6641AE9576000BB032C /* Build configuration list for PBXNativeTarget "Cat YearsTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +426,7 @@
 				1A74A6661AE9576000BB032C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
