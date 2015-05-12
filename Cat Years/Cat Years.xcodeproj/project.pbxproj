@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A20FE311B02471700070069 /* kitty_cat.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 1A20FE301B02471700070069 /* kitty_cat.JPG */; };
 		24F0DF291AED8DD800E8D166 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F0DF281AED8DD800E8D166 /* AppDelegate.swift */; };
 		24F0DF2B1AED8DD800E8D166 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F0DF2A1AED8DD800E8D166 /* ViewController.swift */; };
 		24F0DF2E1AED8DD800E8D166 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24F0DF2C1AED8DD800E8D166 /* Main.storyboard */; };
 		24F0DF301AED8DD800E8D166 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24F0DF2F1AED8DD800E8D166 /* Images.xcassets */; };
 		24F0DF331AED8DD800E8D166 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24F0DF311AED8DD800E8D166 /* LaunchScreen.xib */; };
 		24F0DF3F1AED8DD800E8D166 /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F0DF3E1AED8DD800E8D166 /* Cat_YearsTests.swift */; };
-		24F0DF4B1AED954E00E8D166 /* PICT0369.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 24F0DF4A1AED954E00E8D166 /* PICT0369.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A20FE301B02471700070069 /* kitty_cat.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kitty_cat.JPG; sourceTree = "<group>"; };
 		24F0DF231AED8DD800E8D166 /* Cat Years.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cat Years.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		24F0DF271AED8DD800E8D166 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		24F0DF281AED8DD800E8D166 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -37,7 +38,6 @@
 		24F0DF381AED8DD800E8D166 /* Cat YearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		24F0DF3D1AED8DD800E8D166 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		24F0DF3E1AED8DD800E8D166 /* Cat_YearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsTests.swift; sourceTree = "<group>"; };
-		24F0DF4A1AED954E00E8D166 /* PICT0369.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PICT0369.JPG; path = "/Users/heatherfenton/Documents/UdemyCourse/iOS-Playground/Cat Years/Cat Years/PICT0369.JPG"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +79,7 @@
 		24F0DF251AED8DD800E8D166 /* Cat Years */ = {
 			isa = PBXGroup;
 			children = (
-				24F0DF4A1AED954E00E8D166 /* PICT0369.JPG */,
+				1A20FE301B02471700070069 /* kitty_cat.JPG */,
 				24F0DF281AED8DD800E8D166 /* AppDelegate.swift */,
 				24F0DF2A1AED8DD800E8D166 /* ViewController.swift */,
 				24F0DF2C1AED8DD800E8D166 /* Main.storyboard */,
@@ -196,9 +196,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				24F0DF2E1AED8DD800E8D166 /* Main.storyboard in Resources */,
-				24F0DF4B1AED954E00E8D166 /* PICT0369.JPG in Resources */,
 				24F0DF331AED8DD800E8D166 /* LaunchScreen.xib in Resources */,
 				24F0DF301AED8DD800E8D166 /* Images.xcassets in Resources */,
+				1A20FE311B02471700070069 /* kitty_cat.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
