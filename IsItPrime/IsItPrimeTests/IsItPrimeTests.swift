@@ -2,7 +2,7 @@
 //  IsItPrimeTests.swift
 //  IsItPrimeTests
 //
-//  Created by Heather Fenton on 5/11/15.
+//  Created by Heather Fenton on 5/13/15.
 //  Copyright (c) 2015 silc. All rights reserved.
 //
 

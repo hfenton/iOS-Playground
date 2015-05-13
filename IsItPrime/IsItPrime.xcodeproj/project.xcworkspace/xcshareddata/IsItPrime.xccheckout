@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>3F3FCBC8-4B40-406F-8B7B-EC1644057407</string>
+	<string>7B854976-3831-424E-A1CB-59B386376EB7</string>
 	<key>IDESourceControlProjectName</key>
-	<string>IsItPrime</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>CA7C49B9A75DBD4A37909375DA06C30563A748A1</key>
 		<string>github.com:vht-hfenton/iOS-Playground.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>IsItPrime/IsItPrime.xcodeproj</string>
+	<string>IsItPrime/IsItPrime.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>CA7C49B9A75DBD4A37909375DA06C30563A748A1</key>
